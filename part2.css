@@ -1,0 +1,39 @@
+h1 {
+    color: forestgreen;
+}
+.original {
+    color: #4c8cb1;
+}
+.newish {
+    color: yellow;
+}
+
+#rank1 {
+    color: blueviolet
+}
+#rank2{
+    color: magenta
+}
+#rank3 {
+    color: burlywood
+}
+#rank4 {
+    color: aqua;
+}
+#rank5 {
+    color: darkred;
+}
+
+.lists {
+    border: 2px solid black;
+    color: blue;
+}
+#cities {
+    color: yellowgreen;
+}
+#friends {
+    color: darkgoldenrod;
+}
+#fast-food {
+    color: cyan;
+}

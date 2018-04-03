@@ -1,0 +1,53 @@
+* {
+    font-family: Tahoma, "Geneva", sans-serif;	
+
+}
+body {
+background-color: lightgrey;
+}
+h2, p, .x {
+    text-align: center;
+    position: relative;
+}
+a {
+    text-decoration: none;
+    color: #fff;
+}
+.boxes {
+display: block;
+margin: 1rem;
+padding: 2em;
+border: 1px solid #000;
+border-radius: 10px;
+width: 20%;
+}
+a:hover {
+    cursor: pointer;
+    font-weight: bold;
+    color: rgb(16, 156, 180);
+}
+span {
+    color: green;
+    font-weight: bold;
+}
+
+#box1 {
+    background-color: blue;
+}
+#box2 {
+    background-color: gold;
+
+}
+#box3 {
+    background-color: orange;
+}
+#box4 {
+    background-color: purple;
+}
+.image {
+    background-color: red;
+    width: 2em;
+    height: 2em;
+    display: inline;
+    position: absolute;
+}
